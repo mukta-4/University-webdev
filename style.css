@@ -1,0 +1,11 @@
+a:after{
+    content:" "; 
+    display:inline-block; 
+    width:5px;
+} 
+
+ span:after{
+    content:" "; 
+    display:inline-block; 
+    width:20px;
+}

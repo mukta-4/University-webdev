@@ -74,7 +74,7 @@ Grid
 }
 
 .container {
-	padding-left: 30px;
+	padding-left: 0px;
 	padding-right: 30px;
 }
 
@@ -112,9 +112,11 @@ Clearfix
 .row{
 	background: #DDD8C4;
 	min-width: 400px;
-	padding: 50px 0 44px 0;
+	padding: 30px 50px 0px 40px;
 	color: black;
-	border-radius: 10px ;
+	border-radius: 10px;
+	font-size: 24px;
+    line-height: 44px
 }
 
 .courses{
@@ -145,6 +147,7 @@ h1 {
 h2 {
 	font-size: 24px;
 	line-height: 44px;
+	margin-bottom: 10px;
 }
 
 h3 {
@@ -152,7 +155,8 @@ h3 {
 }
 
 h4 {
-	font-size: 18px;
+	font-size: 25px;
+	text-transform: uppercase;
 }
 
 h5 {
@@ -179,6 +183,7 @@ Buttons
 	color: #fff;
 	font-weight: 400;
 	text-transform: uppercase;
+	margin-bottom: 20px;
 }
 
 .btn-gen {
@@ -192,6 +197,8 @@ Buttons
 }
 
 /*================*/
+
+
 
 .logo {
 	
@@ -219,6 +226,8 @@ Buttons
 	text-align: right;
 	color: white;
 }
+
+/*========*/
 
 ol{
     padding-left:30px; 

@@ -122,10 +122,11 @@ Clearfix
 .courses{
 	background: #A3C9A8;
 	min-width: 400px;
-	padding: 10px 0 14px 0;
+	padding: 50px 0px 64px 30px;;
 	color: black;
-	font-size: 20px;
 	border-radius: 10px ;
+	font-size: 24px;
+    line-height: 44px;
 }
 }
 

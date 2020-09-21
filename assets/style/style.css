@@ -13,12 +13,11 @@ header #header-section .logo {
   background-position: 0;
   background-repeat: no-repeat;
   background-size: contain;
-  min-height: 45px;
+  min-height: 90px;
 }
 
 header #header-section p {
   color: #fff;
-  font-size: 0.75em;
   text-align: right;
 }
 

@@ -32,3 +32,16 @@ footer #footer-section h3 {
 .main-container {
   min-height: 70vh;
 }
+
+#footer-section a, #footer-section i{
+  color:#fff;
+  margin-right: 5px;
+}
+
+#footer-section span{
+  border-right: 2px solid #fff;
+}
+
+#footer-section span:last-child{
+  border-right: none;
+}
